@@ -1,0 +1,16 @@
+chktex exit: 0
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex)
+ \write18 enabled.
+entering extended mode
+Latexmk: Examining 'output.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex)
+ \write18 enabled.
+entering extended mode
+Latexmk: Examining 'output.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, in force_mode: so I tried finishing targets
+qpdf exit code=0
+Renaming optimised file to output.pdf
